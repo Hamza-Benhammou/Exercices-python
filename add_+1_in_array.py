@@ -12,6 +12,7 @@
 
 # solution
 
+
 def pipe_fix(nums):
     pipes_list = list(range(min(nums) , max(nums) + 1))
     return pipes_list
