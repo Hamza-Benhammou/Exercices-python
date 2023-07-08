@@ -5,7 +5,6 @@
 
 # solution
 
-
 def double_char(s):
     doubled_string = ''
     for char in s:

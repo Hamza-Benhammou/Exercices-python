@@ -6,6 +6,7 @@
 
 # solution
 
+
 def past(h, m, s):
     milliseconds = ((h * 60 + m) * 60 + s) * 1000
     return milliseconds
