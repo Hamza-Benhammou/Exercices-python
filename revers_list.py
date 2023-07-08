@@ -6,7 +6,6 @@
 
 # def reverse_list(l):
 
-
 # solution
 
 def reverse_list(l):

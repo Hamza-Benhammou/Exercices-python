@@ -7,7 +7,6 @@
 
 # solution 
 
-
 def quarter_of(month):
     if month <= 3:
         return 1
