@@ -1,7 +1,7 @@
 
 
-a = 1
+a = 2
 b ="France"
 c =36.2
 
-print(a,b,c)
+print(a,b,c) 
